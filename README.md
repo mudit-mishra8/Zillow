@@ -1,4 +1,4 @@
-# Zillow
+# Zillow Data Analytics Project
 
 ![Project Image](https://m.media-amazon.com/images/I/71ax+BgCs5L.jpg)  
 
